@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+Üyelik bir ✏️ parası.
+=======
+>>>>>>> parent of 0e3c5a2... yazı eklendi
