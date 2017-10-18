@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 
 Üyelik bir ✏️ parası.
+=======
+<<<<<<< HEAD
+Üyelik bir ✏️ parası.
+=======
+>>>>>>> parent of 0e3c5a2... yazı eklendi
+>>>>>>> parent of 23b57f4... ikinci commit
